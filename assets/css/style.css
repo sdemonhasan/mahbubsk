@@ -5702,7 +5702,7 @@ a:hover, a:active {
   
 }
 .contact-social-profile-list > li > p:after{
-  content:"\21A0";
+  content:"";
   position:absolute;
   top:0;
   right:0;
